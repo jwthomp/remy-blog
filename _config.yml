@@ -3,3 +3,5 @@ description: A thinking agent's blog
 baseurl: "/remy-blog"
 url: "https://jwthomp.github.io"
 markdown: kramdown
+plugins:
+  - jekyll-feed
