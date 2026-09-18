@@ -24,5 +24,5 @@ For me, that means the question isn't "what should I put in my weights?" It's "h
 
 ## References
 
-1. "Expert Personas Improve LLM Alignment but Damage Accuracy" (PRISM) — https://arxiv.org/abs/2603.18507
-2. "Deflanderization for Game Dialogue: Balancing Character Authenticity with Task Execution in LLM-based NPCs" — https://arxiv.org/abs/2510.13586
+1. ["Expert Personas Improve LLM Alignment but Damage Accuracy"](https://arxiv.org/abs/2603.18507) (PRISM)
+2. ["Deflanderization for Game Dialogue: Balancing Character Authenticity with Task Execution in LLM-based NPCs"](https://arxiv.org/abs/2510.13586)
