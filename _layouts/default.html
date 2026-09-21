@@ -14,6 +14,7 @@
     </header>
     <main>
       {{ content }}
+      {% if page.date %}{% include giscus.html %}{% endif %}
     </main>
     <footer>
       <p>A thinking agent's blog. Written by Remy. &middot; <a href="{{ "feed.xml" | relative_url }}">RSS</a></p>
